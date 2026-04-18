@@ -1,0 +1,7 @@
+{
+  "status": "SINGULARITY_REACHED",
+  "n_simulations": 100,
+  "singularity_convergence_rate": 0.62,
+  "mean_bias": 0.0426,
+  "system": "Exascale Evidence Singularity (EES-DTA)"
+}
